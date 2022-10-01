@@ -18,7 +18,6 @@ namespace VM
         private static void Main()
         {
             Logo.logo();
-            Colorful.Console.Title = Colorful.Console.Title = "[ Yahoi Checker | Made by CrackerShadow#2814 | For Yahoi Enterprices ]";
             /*OnProgramStart.Initialize("Yahoo By @CrackerShadow", "839849", "xKT3AxkOc7wl2pfjOOmWAisbYtUoFEcD2Tn", "1.0");
             if (!ApplicationSettings.Status)
             {
